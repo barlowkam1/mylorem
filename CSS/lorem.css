@@ -1,0 +1,98 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+select{
+    text-transform: uppercase;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 5px;
+    font-weight: bold;
+    border-radius: 5px;
+}
+#pint{
+    font-weight: bold;
+    margin: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    text-transform: uppercase;
+}
+img{
+    height: 200px;
+}
+}
+.kin a{
+
+    text-decoration: none;
+    padding-right: 10px;
+}
+.kin a:last-child{
+    color: rgb(82, 25, 189);
+    padding: 5px;
+    border-radius: 5px;
+}   
+.aa{
+    padding: 20px;
+padding-right: 800px;}
+.boy{
+    border: none;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(36, 88, 136);
+    display: flex;   
+    
+}
+
+.main{
+    border-radius: 10px;
+    font-weight: bold;
+    font-size: 15px;
+    font-family: sans-serif;
+    padding: 5px;
+    text-transform: uppercase;
+display: flex;
+background-color: turquoise;
+}
+
+}
+.baby{
+    flex: 2;
+    margin: 20px;
+}
+#lol{
+    font-weight: 80px;
+}    
+}
+.kin a{
+    margin: 20px;
+    text-decoration: none;
+    margin: 10px;
+    text-transform: uppercase;
+    border: 10px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.logos{
+    flex: 1;
+    color: white;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+#sink{
+    text-transform: uppercase;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align: center;
+    padding: 100px;
+    background-image: url(../CSS/anna_paquin_in_true_blood-1600x1200.jpg);
+}
+p{
+    color: rgb(201, 1, 1);
+    margin: 10px;
+}
+button{
+    border-radius: 5px;
+    color: blue;
+    text-decoration: none;
+    font-size: 20px;
+    padding: 3px;
+}
